@@ -1,0 +1,10 @@
+Worm: {find_host(h); rcopy(worm,h) rexec(worm,h)}
+login print "Type password:" read(password) if valid(password) then permit else deny
+int number; string word; bool truth;
+using namespace std; cout << "Hello World!" << endl;
+std::cout << "Hello HackCU" << std::endl;
+key: e = 0; 40113 -> Hello
+int main() {run those sweet hacks};
+struct Node{ int key; Node *next; };
+ptr->key = value; ptr->next = stackHead_even;
+ifstream readthisfile; ofstream writeafile; fstream icandoboth;

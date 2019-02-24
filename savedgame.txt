@@ -1,0 +1,6 @@
+3
+0
+Easy
+0
+ptr->key = value; ptr->next = stackHead_even;|ifstream readthisfile; ofstream writeafile; fstream icandoboth;
+What Does An IP Look Like?

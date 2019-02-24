@@ -1,0 +1,6 @@
+Benjamin
+50000
+Hard
+1
+std::cout << "Hello HackCU" << std::endl;|ptr->key = value; ptr->next = stackHead_even;
+What Is Encryption?

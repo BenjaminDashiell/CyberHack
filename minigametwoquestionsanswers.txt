@@ -1,0 +1,10 @@
+The main delivery system for information over the Internet is known as an IP. What Does IP Stand For?:Internet Protocol,Internet Pass,International Protocol,Information Place:A
+What Does An IP Look Like?:Numbers,Integers,GPS Coordinates,Digits:C
+Adware, AVG AntiVirus Free, and Windows Defender Are Examples Of What Kind Of Program?:Anti-Virus,Anti-Malware,Anti-Moniter,Anti-Computer:B
+What Is Malware?:That One Villain From Ben 10,Dangerous,Software that is intended to damage or disable computers and computer systems,Viruses:C
+What Is A Back Door?:A feature or defect of a computer system that allows surreptitious unauthorized access to data,Bugs,A feature or defect of a computer system that doesn't allow surreptitious unauthorized access to data,The Door In The Back Of Your House:A
+An automated program that runs over the Internet are:hackers,AI,neural net processors,bots:D
+What refers to technologies and practices designed to protect your computers, networks, software and data from attack?:Cyber Security,Cyborgs,Psy,Science:A
+What Is Encryption?:A method used to attempt to ensure data security by use of encrypted (secret) code,method used to reveal all your data,method used to play your favorite games,method used to encode your data for security:A
+Spam Is:Unwanted e-mail/junk sent out in bulk,A Food Item,Unwanted files on your computer,Unwanted friend requests on social media:A
+Smurfing Is:The New Smurfs Sequel,Software that mounts a denial of service attack by exploiting IP broadcast addressing and ICMP ping packets to cause flooding,Playing On An Alternative Game Account,Your Childhood Pet Name:B
